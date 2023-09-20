@@ -1,0 +1,9 @@
+
+DELIMITER $$
+
+CREATE PROCEDURE spMovies_GetMovies()
+BEGIN
+	SELECT * FROM movies m;
+END$$
+
+DELIMITER ;

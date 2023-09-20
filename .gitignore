@@ -1,0 +1,17 @@
+/MovieAPI/temp
+/MovieAPI/upload
+/MovieAPI/App_Data
+/MovieAPI/obj
+/MovieAPI/bin/*.pdb
+/MovieAPI/.vs
+/MovieAPI/packages
+/MovieAPI/Properties
+/MovieAPI/bin
+/MovieAPI/Scripts
+/MovieAPI/fonts
+/MovieAPI/Content
+/MovieAPI/*.csproj.user
+/MovieAPI/*.Debug.config
+/MovieAPI/*.Release.config
+/MovieAPI/*.sln
+/MovieAPI/Migrations
